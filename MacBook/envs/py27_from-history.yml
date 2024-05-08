@@ -1,0 +1,10 @@
+name: py27
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=2.7
+  - networkx
+  - matplotlib
+prefix: /Users/bmoore/opt/anaconda3/envs/py27

@@ -1,0 +1,10 @@
+name: snakemake
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - snakemake
+  - visidata
+  - csvkit
+prefix: /Users/bmoore/opt/anaconda3/envs/snakemake

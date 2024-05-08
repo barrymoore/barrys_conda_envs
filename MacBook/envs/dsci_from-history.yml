@@ -1,0 +1,35 @@
+name: dsci
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - snakemake
+  - nextflow
+  - jupyter
+  - cookiecutter
+  - seaborn
+  - numpy
+  - pandas
+  - matplotlib
+  - tabulate
+  - sphinx==3.5.4
+  - cufflinks-py
+  - cyvcf2
+  - python==3.8.5
+  - pandas-bokeh
+  - pybedtools
+  - pandas-profiling
+  - holoviews
+  - xarray
+  - datashader
+  - dtale
+  - sweetviz
+  - jupyterlab
+  - ansible
+  - streamlit
+  - jupyter_contrib_nbextensions
+  - nbconvert==5.6.1
+  - matplotlib-venn
+  - ncls
+prefix: /Users/bmoore/opt/anaconda3/envs/dsci

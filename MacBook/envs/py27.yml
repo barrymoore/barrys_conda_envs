@@ -1,0 +1,50 @@
+name: py27
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - backports=1.1=pyhd3eb1b0_0
+  - backports.functools_lru_cache=1.6.4=pyhd3eb1b0_0
+  - backports_abc=0.5=py27_0
+  - blas=1.1=openblas
+  - ca-certificates=2023.01.10=hecd8cb5_0
+  - certifi=2020.6.20=pyhd3eb1b0_3
+  - cycler=0.10.0=py27_0
+  - decorator=5.1.0=pyhd3eb1b0_0
+  - freetype=2.12.1=h3f81eb7_1
+  - functools32=3.2.3.2=py27_2
+  - futures=3.3.0=py27h8c360ce_1
+  - kiwisolver=1.1.0=py27h5cd23e5_1
+  - libcxx=16.0.2=hd57cbcb_0
+  - libffi=3.2.1=hb1e8313_1007
+  - libgfortran=3.0.1=0
+  - libopenblas=0.3.20=h9a5756b_0
+  - libpng=1.6.39=ha978bb4_0
+  - libsqlite=3.40.0=ha978bb4_1
+  - libzlib=1.2.13=hfd90126_4
+  - matplotlib=2.2.5=h694c41f_3
+  - matplotlib-base=2.2.5=py27h11da6c2_1
+  - ncurses=6.3=h96cf925_1
+  - networkx=2.2=py_1
+  - numpy=1.16.6=py27h2977cdd_0
+  - numpy-base=1.16.6=py27ha711998_0
+  - openblas=0.3.4=hdc02c5d_1000
+  - openssl=1.1.1t=hfd90126_0
+  - pip=20.1.1=pyh9f0ad1d_0
+  - pyparsing=2.4.7=pyh9f0ad1d_0
+  - python=2.7.15=h8e446fc_1011_cpython
+  - python-dateutil=2.8.2=pyhd3eb1b0_0
+  - python_abi=2.7=1_cp27m
+  - pytz=2021.3=pyhd3eb1b0_0
+  - readline=8.2=h9e318b2_1
+  - setuptools=44.0.0=py27_0
+  - singledispatch=3.7.0=pyhd3eb1b0_1001
+  - six=1.16.0=pyh6c4a22f_0
+  - sqlite=3.40.0=h9ae0607_1
+  - subprocess32=3.5.4=py27h01d97ff_0
+  - tk=8.6.12=h5dbffcc_0
+  - tornado=5.1.1=py27h1de35cc_1000
+  - wheel=0.37.1=pyhd8ed1ab_0
+  - zlib=1.2.13=hfd90126_4
+prefix: /Users/bmoore/opt/anaconda3/envs/py27
